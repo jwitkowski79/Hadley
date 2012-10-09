@@ -1,17 +1,27 @@
 <?xml version="1.0"?>
 <portfolio>
-  <exhibit id='1' name='Durham Museum' navtext='Durham Museum' type='museum'>
+<exhibit id='83' name='Ellis Island Immigration Museum' navtext='Ellis Island Immigration Museum' type='museum'>
     <desc size="" content="" />
-    <thumb src='include/images/durham1_home.jpg' />
-    <image zoom='include/images/durham1_lg.jpg' thumb='include/images/durham1_sm.jpg' />
-    <image zoom='include/images/durham2_lg.jpg' thumb='include/images/durham2_sm.jpg' />
-    <image zoom='include/images/durham3_lg.jpg' thumb='include/images/durham3_sm.jpg' />
-    <image zoom='include/images/durham4_lg.jpg' thumb='include/images/durham4_sm.jpg' />
-    <image zoom='include/images/durham5_lg.jpg' thumb='include/images/durham5_sm.jpg' />
-    <image zoom='include/images/durham6_lg.jpg' thumb='include/images/durham6_sm.jpg' />
-    <image zoom='include/images/durham7_lg.jpg' thumb='include/images/durham7_sm.jpg' />
-    <image zoom='include/images/durham9_lg.jpg' thumb='include/images/durham9_sm.jpg' />
+    <thumb src='include/images/ellis-home.jpg' />
+    <image zoom='include/images/ellis1-lg.jpg' thumb='include/images/ellis1-sm.jpg' />
+    <image zoom='include/images/ellis2-lg.jpg' thumb='include/images/ellis2-sm.jpg' />
+    <image zoom='include/images/ellis3-lg.jpg' thumb='include/images/ellis3-sm.jpg' />
+    <image zoom='include/images/ellis4-lg.jpg' thumb='include/images/ellis4-sm.jpg' />
+    <image zoom='include/images/ellis5-lg.jpg' thumb='include/images/ellis5-sm.jpg' />
+    <image zoom='include/images/ellis6-lg.jpg' thumb='include/images/ellis6-sm.jpg' />
   </exhibit>
+  <exhibit id='84' name='National Mississippi River Museum &amp; Aquarium' navtext='National Mississippi River Museum &amp;  Aquarium' type='museum'>
+    <desc size="" content="" />
+    <thumb src='include/images/MRMA-home.jpg' />
+    <image zoom='include/images/MRMA1-lg.jpg' thumb='include/images/MRMA1-sm.jpg' />
+    <image zoom='include/images/MRMA2-lg.jpg' thumb='include/images/MRMA2-sm.jpg' />
+    <image zoom='include/images/MRMA3-lg.jpg' thumb='include/images/MRMA3-sm.jpg' />
+    <image zoom='include/images/MRMA4-lg.jpg' thumb='include/images/MRMA4-sm.jpg' />
+    <image zoom='include/images/MRMA5-lg.jpg' thumb='include/images/MRMA5-sm.jpg' />
+    <image zoom='include/images/MRMA6-lg.jpg' thumb='include/images/MRMA6-sm.jpg' />
+    <image zoom='include/images/MRMA7-lg.jpg' thumb='include/images/MRMA7-sm.jpg' />
+    <image zoom='include/images/MRMA8-lg.jpg' thumb='include/images/MRMA8-sm.jpg' />
+ </exhibit>
   <exhibit id='3' name='Bethel Woods' navtext='Bethel Woods' type='museum'>
     <desc size="" content="" />
     <thumb src='include/images/bethel_home.jpg' />
@@ -31,19 +41,6 @@
     <image zoom='include/images/sma7-lg.jpg' thumb='include/images/sma7-sm.jpg' />
     <image zoom='include/images/sma8-lg.jpg' thumb='include/images/sma8-sm.jpg' />
     <image zoom='include/images/sma9-lg.jpg' thumb='include/images/sma9-sm.jpg' />
-  </exhibit>
-    <exhibit id='32' name='Baseball Hall of Fame' navtext='Baseball Hall of Fame' type='museum'>
-    <desc size="" content="" />
-    <thumb src='include/images/baseball3_home.jpg' />
-    <image zoom='include/images/baseball1_lg.jpg' thumb='include/images/baseball1_sm.jpg' />
-    <image zoom='include/images/baseball2_lg.jpg' thumb='include/images/baseball2_sm.jpg' />
-    <image zoom='include/images/baseball3_lg.jpg' thumb='include/images/baseball3_sm.jpg' />
-    <image zoom='include/images/baseball4_lg.jpg' thumb='include/images/baseball4_sm.jpg' />
-    <image zoom='include/images/baseball10-lg.jpg' thumb='include/images/baseball10-sm.jpg' />
-    <image zoom='include/images/baseball11-lg.jpg' thumb='include/images/baseball11-sm.jpg' />
-    <image zoom='include/images/baseball12-lg.jpg' thumb='include/images/baseball12-sm.jpg' />
-    <image zoom='include/images/baseball13-lg.jpg' thumb='include/images/baseball13-sm.jpg' />
-    <image zoom='include/images/baseball14-lg.jpg' thumb='include/images/baseball14-sm.jpg' />
   </exhibit>
   
    <exhibit id='54' name='NPS Blue Ridge Parkway' navtext='NPS Blue Ridge Pkwy' type='visitor'>
@@ -130,31 +127,39 @@
     <image zoom='include/images/wtc8.jpg' thumb='include/images/wtc8_t.jpg' />
     <image zoom='include/images/wtc9.jpg' thumb='include/images/wtc9_t.jpg' />
   </exhibit>
-  <exhibit id='59' name='NYSM - Open Spaces' navtext= 'Open Spaces' type='museum'>
+  <exhibit id='1' name='Durham Museum' navtext='Durham Museum' type='museum'>
     <desc size="" content="" />
-    <thumb src='' />
-    <image zoom='include/images/open1.jpg' thumb='include/images/open1_t.jpg' />
-    <image zoom='include/images/open2.jpg' thumb='include/images/open2_t.jpg' />
-    <image zoom='include/images/open3.jpg' thumb='include/images/open3_t.jpg' />
+    <thumb src='include/images/durham1_home.jpg' />
+    <image zoom='include/images/durham1_lg.jpg' thumb='include/images/durham1_sm.jpg' />
+    <image zoom='include/images/durham2_lg.jpg' thumb='include/images/durham2_sm.jpg' />
+    <image zoom='include/images/durham3_lg.jpg' thumb='include/images/durham3_sm.jpg' />
+    <image zoom='include/images/durham4_lg.jpg' thumb='include/images/durham4_sm.jpg' />
+    <image zoom='include/images/durham5_lg.jpg' thumb='include/images/durham5_sm.jpg' />
+    <image zoom='include/images/durham6_lg.jpg' thumb='include/images/durham6_sm.jpg' />
+    <image zoom='include/images/durham7_lg.jpg' thumb='include/images/durham7_sm.jpg' />
+    <image zoom='include/images/durham9_lg.jpg' thumb='include/images/durham9_sm.jpg' />
   </exhibit>
-  <exhibit id='60' name='NYSM - Archeology' navtext='Archeology' type='museum'>
+  <exhibit id='32' name='Baseball Hall of Fame' navtext='Baseball Hall of Fame' type='museum'>
     <desc size="" content="" />
-    <thumb src='' />
-    <image zoom='include/images/arch1.jpg' thumb='include/images/arch1_t.jpg' />
-    <image zoom='include/images/arch2.jpg' thumb='include/images/arch2_t.jpg' />
-    <image zoom='include/images/arch3.jpg' thumb='include/images/arch3_t.jpg' />
-    <image zoom='include/images/arch4.jpg' thumb='include/images/arch4_t.jpg' />
-    <image zoom='include/images/arch5.jpg' thumb='include/images/arch5_t.jpg' />
-    <image zoom='include/images/arch6.jpg' thumb='include/images/arch6_t.jpg' />
+    <thumb src='include/images/baseball3_home.jpg' />
+    <image zoom='include/images/baseball1_lg.jpg' thumb='include/images/baseball1_sm.jpg' />
+    <image zoom='include/images/baseball2_lg.jpg' thumb='include/images/baseball2_sm.jpg' />
+    <image zoom='include/images/baseball3_lg.jpg' thumb='include/images/baseball3_sm.jpg' />
+    <image zoom='include/images/baseball4_lg.jpg' thumb='include/images/baseball4_sm.jpg' />
+    <image zoom='include/images/baseball10-lg.jpg' thumb='include/images/baseball10-sm.jpg' />
+    <image zoom='include/images/baseball11-lg.jpg' thumb='include/images/baseball11-sm.jpg' />
+    <image zoom='include/images/baseball12-lg.jpg' thumb='include/images/baseball12-sm.jpg' />
+    <image zoom='include/images/baseball13-lg.jpg' thumb='include/images/baseball13-sm.jpg' />
+    <image zoom='include/images/baseball14-lg.jpg' thumb='include/images/baseball14-sm.jpg' />
   </exhibit>
-  <exhibit id='61' name='NYSM - Windows on NY' navtext='Windows on NY' type='museum'>
+    <exhibit id='27' name='Rosa Parks' navtext='Rosa Parks' type='museum'>
     <desc size="" content="" />
-    <thumb src='include/images/window.jpg' />
-    <image zoom='include/images/window1.jpg' thumb='include/images/window1_t.jpg' />
-    <image zoom='include/images/window2.jpg' thumb='include/images/window2_t.jpg' />
-    <image zoom='include/images/window3.jpg' thumb='include/images/window3_t.jpg' />
-    <image zoom='include/images/window4.jpg' thumb='include/images/window4_t.jpg' />
-    <image zoom='include/images/window5.jpg' thumb='include/images/window5_t.jpg' />
+    <thumb src='include/images/rosaParks2_home.jpg' />
+    <image zoom='include/images/rosaParks1_lg.jpg' thumb='include/images/rosaParks1_sm.jpg' />
+    <image zoom='include/images/rosaParks2_lg.jpg' thumb='include/images/rosaParks2_sm.jpg' />
+    <image zoom='include/images/rosaParks3_lg.jpg' thumb='include/images/rosaParks3_sm.jpg' />
+    <image zoom='include/images/rosaParks4_lg.jpg' thumb='include/images/rosaParks4_sm.jpg' />
+    <image zoom='include/images/rosaParks5_lg.jpg' thumb='include/images/rosaParks5_sm.jpg' />
   </exhibit>
 
   <exhibit id='5' name='Cliffstar' navtext='Cliffstar' type='trade'>
@@ -270,15 +275,6 @@
     <image zoom='include/images/jb6_lg.jpg' thumb='include/images/jb6_sm.jpg' />
     <image zoom='include/images/jb7_lg.jpg' thumb='include/images/jb7_sm.jpg' />
   </exhibit>
-  <exhibit id='27' name='Rosa Parks' navtext='Rosa Parks' type='visitor'>
-    <desc size="" content="" />
-    <thumb src='include/images/rosaParks2_home.jpg' />
-    <image zoom='include/images/rosaParks1_lg.jpg' thumb='include/images/rosaParks1_sm.jpg' />
-    <image zoom='include/images/rosaParks2_lg.jpg' thumb='include/images/rosaParks2_sm.jpg' />
-    <image zoom='include/images/rosaParks3_lg.jpg' thumb='include/images/rosaParks3_sm.jpg' />
-    <image zoom='include/images/rosaParks4_lg.jpg' thumb='include/images/rosaParks4_sm.jpg' />
-    <image zoom='include/images/rosaParks5_lg.jpg' thumb='include/images/rosaParks5_sm.jpg' />
-  </exhibit>
   <exhibit id='30' name='Old Fort Niagara' navtext='Old Fort Niagara' type='visitor'>
     <desc size="" content="" />
     <thumb src='include/images/niagara2_home.jpg' />
@@ -350,15 +346,7 @@
     <image zoom='include/images/ngdc3_lg.jpg' thumb='include/images/ngdc3_sm.jpg' />
     <image zoom='include/images/ngdc4_lg.jpg' thumb='include/images/ngdc4_sm.jpg' />
   </exhibit>
-  <exhibit id='40' name='Written in Bone' navtext='Written in Bone' type='museum'>
-    <desc size="" content="" />
-    <thumb src='include/images/bones1_home.jpg' />
-    <image zoom='include/images/bones1_lg.jpg' thumb='include/images/bones1_sm.jpg' />
-    <image zoom='include/images/bones2_lg.jpg' thumb='include/images/bones2_sm.jpg' />
-    <image zoom='include/images/bones3_lg.jpg' thumb='include/images/bones3_sm.jpg' />
-    <image zoom='include/images/bones4_lg.jpg' thumb='include/images/bones4_sm.jpg' />
-    <image zoom='include/images/bones5_lg.jpg' thumb='include/images/bones5_sm.jpg' />
-  </exhibit>
+ 
   
   <!-- ZOOS ARE HERE -->
   
@@ -604,7 +592,7 @@
     <image zoom='include/images/eric6-lg.jpg' thumb='include/images/eric6-sm.jpg' />
     <image zoom='include/images/eric7-lg.jpg' thumb='include/images/eric7-sm.jpg' />
   </exhibit>
-     <exhibit id='52' name='Buffalo Zoo - Heritage Farm' navtext='Buffalo Zoo - Heritage Farm' type='zoo'>
+  <exhibit id='52' name='Buffalo Zoo - Heritage Farm' navtext='Buffalo Zoo - Heritage Farm' type='zoo'>
     <desc size="" content="" />
     <thumb src='include/images/hfarm-home.jpg' />
     <image zoom='include/images/hfarm1-lg.jpg' thumb='include/images/hfarm1-sm.jpg' />
@@ -615,29 +603,29 @@
     <image zoom='include/images/hfarm6-lg.jpg' thumb='include/images/hfarm6-sm.jpg' />
     <image zoom='include/images/hfarm7-lg.jpg' thumb='include/images/hfarm7-sm.jpg' />
   </exhibit>
-    <exhibit id='76' name='Reichert' navtext='Reichert' type='trade'>
+  <exhibit id='76' name='Reichert' navtext='Reichert' type='trade'>
     <desc size="" content="" />
     <thumb src='include/images/reichert-home.jpg' />
     <image zoom='include/images/reichert1-lg.jpg' thumb='include/images/reichert1-sm.jpg' />
     <image zoom='include/images/reichert2-lg.jpg' thumb='include/images/reichert2-sm.jpg' />
     <image zoom='include/images/reichert3-lg.jpg' thumb='include/images/reichert3-sm.jpg' />
-    </exhibit>
-     <exhibit id='77' name='Pivot Medical - 52147' navtext='Pivot Medical-52147' type='portable'>
+</exhibit>
+ <exhibit id='77' name='Pivot Medical - 52147' navtext='Pivot Medical-52147' type='portable'>
     <desc size="" content="" />
     <thumb src='include/images/PivotMedical_52147_sm.jpg' />
     <image zoom='include/images/PivotMedical_52147.jpg' />
-  </exhibit>
-   <exhibit id='78' name='Medshape - 55217' navtext='Medshape-55217' type='portable'>
+ </exhibit>
+ <exhibit id='78' name='Medshape - 55217' navtext='Medshape-55217' type='portable'>
     <desc size="" content="" />
     <thumb src='include/images/Medshape_55217_sm.jpg' />
     <image zoom='include/images/Medshape_55217.jpg' />
-  </exhibit>
-    <exhibit id='79' name='Bank of America - 56330' navtext='Bank of America-56330' type='portable'>
+ </exhibit>
+ <exhibit id='79' name='Bank of America - 56330' navtext='Bank of America-56330' type='portable'>
     <desc size="" content="" />
     <thumb src='include/images/boa_sm.jpg' />
     <image zoom='include/images/boa.jpg' />
   </exhibit>
-   <exhibit id='80' name='Hex Armor - 53941' navtext='Hex Armor-53941' type='portable'>
+  <exhibit id='80' name='Hex Armor - 53941' navtext='Hex Armor-53941' type='portable'>
     <desc size="" content="" />
     <thumb src='include/images/hex_sm.jpg' />
     <image zoom='include/images/hex.jpg' />
@@ -652,6 +640,7 @@
     <thumb src='include/images/zooD_sm.jpg' />
     <image zoom='include/images/zooD.jpg' />
   </exhibit>
+
   <!-- blank template for new portfolio exhibit -->
   <!-- options for type: [museum|trade|visitor|zoo|frank|misc] -->
   <exhibit id='' name='' navtext='' type=''>
