@@ -250,12 +250,12 @@
     <image zoom='include/images/grafik_lg.jpg' />
   </exhibit>
   <exhibit id='21' name='HRV - 54101' navtext='HRV-54101' type='portable'>
-    <desc size="" content="" />
+    <desc size="" content="Exhibit Type: Inline&lt;br/&gt;Size: 10X10&lt;br/&gt;Approximate Weight: 357 lbs&lt;br/&gt;Additional Options:&lt;br/&gt;- Extrusion Infills&lt;br/&gt; - Fabric Graphics&lt;br/&gt; - Counters" />
     <thumb src='include/images/Horton_52079R2_sm.jpg' />
     <image zoom='include/images/HRV_54101.jpg' />
   </exhibit>
   <exhibit id='22' name='Horton - 52079R2' navtext='Horton-52079R2' type='portable'>
-    <desc size="" content="" />
+    <desc size="" content="Exhibit Type: Inline&lt;br/&gt;Size: 10X10&lt;br/&gt;Approximate Weight: 307 lbs&lt;br/&gt;Case/Crates: 1 S-Crate&lt;br/&gt;Additional Options:&lt;br/&gt; - Extrusion Infills&lt;br/&gt; - Fabric Graphics&lt;br/&gt; - Counters" />
     <thumb src='include/images/Horton_52079R2_sm.jpg' />
     <image zoom='include/images/Horton_52079R2.jpg' />
   </exhibit>
@@ -611,32 +611,32 @@
     <image zoom='include/images/reichert3-lg.jpg' thumb='include/images/reichert3-sm.jpg' />
 </exhibit>
  <exhibit id='77' name='Pivot Medical - 52147' navtext='Pivot Medical-52147' type='portable'>
-    <desc size="" content="" />
+    <desc size="" content="Exhibit Type: Inline&lt;br/&gt;Size: 10X10&lt;br/&gt;Approximate Weight: 555 lbs&lt;br/&gt;Case/Crates: 1 S-Crate&lt;br/&gt;Additional Options:&lt;br/&gt;- Laminate Panels&lt;br/&gt; - Extrusion Infills&lt;br/&gt; - Fabric Graphics&lt;br/&gt; - Fabric Structure&lt;br/&gt; - Counters" />
     <thumb src='include/images/PivotMedical_52147_sm.jpg' />
     <image zoom='include/images/PivotMedical_52147.jpg' />
  </exhibit>
  <exhibit id='78' name='Medshape - 55217' navtext='Medshape-55217' type='portable'>
-    <desc size="" content="" />
+    <desc size="" content="Exhibit Type: Inline&lt;br/&gt;Size: 10X20&lt;br/&gt;Approximate Weight: 1,287 lbs&lt;br/&gt;Case/Crates:&lt;br/&gt; - 1 NimCrate&lt;br/&gt; - 1 Wood Crate&lt;br/&gt;Additional Options:&lt;br/&gt; - Laminate Panels&lt;br/&gt; - Fabric Structure&lt;br/&gt; - Counters" />
     <thumb src='include/images/Medshape_55217_sm.jpg' />
     <image zoom='include/images/Medshape_55217.jpg' />
  </exhibit>
  <exhibit id='79' name='Bank of America - 56330' navtext='Bank of America-56330' type='portable'>
-    <desc size="" content="" />
+    <desc size="" content="Exhibit Type: Inline&lt;br/&gt;Size: 10X20&lt;br/&gt;Approximate Weight: 500 lbs&lt;br/&gt;Case/Crates: 5 WMC&lt;br/&gt;Additional Options:&lt;br/&gt; - Fabric Graphics&lt;br/&gt; - Counters" />
     <thumb src='include/images/boa_sm.jpg' />
     <image zoom='include/images/boa.jpg' />
   </exhibit>
   <exhibit id='80' name='Hex Armor - 53941' navtext='Hex Armor-53941' type='portable'>
-    <desc size="" content="" />
+    <desc size="" content="Exhibit Type: Inline&lt;br/&gt;Size: 10X20&lt;br/&gt;Approximate Weight: 500 lbs&lt;br/&gt;Case/Crates: 1 WCW43&lt;br/&gt;Additional Options:&lt;br/&gt; - Extrusion Infills&lt;br/&gt; - Fabric Graphics&lt;br/&gt; - Counters" />
     <thumb src='include/images/hex_sm.jpg' />
     <image zoom='include/images/hex.jpg' />
   </exhibit>
   <exhibit id='81' name='Route Match Software - 55235' navtext='Route Match Software-55235' type='portable'>
-    <desc size="" content="" />
+    <desc size="" content="Exhibit Type: Island&lt;br/&gt;Size: 20X60&lt;br/&gt;Approximate Weight: 4,900 lbs&lt;br/&gt;Case/Crates: 5 Wood Crate&lt;br/&gt;Additional Options:&lt;br/&gt; - Extrusion Infills&lt;br/&gt; - Fabric Graphics&lt;br/&gt; - Fabric Structure&lt;br/&gt; - Counters" />
     <thumb src='include/images/route_sm.jpg' />
     <image zoom='include/images/route.jpg' />
   </exhibit>
     <exhibit id='82' name='Zoo Digital - 30916' navtext='Zoo Digital-30916' type='portable'>
-    <desc size="" content="" />
+    <desc size="" content="Exhibit Type: Penninsula&lt;br/&gt;Size: 20X20&lt;br/&gt;Approximate Weight: 2,422 lbs&lt;br/&gt;Case/Crates: 3 NimCrate&lt;br/&gt;Additional Options:&lt;br/&gt; - Laminate Panels&lt;br/&gt; - Kiosks&lt;br/&gt; - Counters" />
     <thumb src='include/images/zooD_sm.jpg' />
     <image zoom='include/images/zooD.jpg' />
   </exhibit>
