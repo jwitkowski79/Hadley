@@ -168,12 +168,14 @@
     <image zoom='include/images/cliffstar1_lg.jpg' thumb='include/images/cliffstar1_sm.jpg' />
     <image zoom='include/images/cliffstar2_lg.jpg' thumb='include/images/cliffstar2_sm.jpg' />
   </exhibit>
-  <exhibit id='6' name='Satcon' navtext='Satcon' type='trade'>
+   <exhibit id='6' name='Blu Bathworks' navtext='Blu Bathworks' type='trade'>
     <desc size="" content="" />
-    <thumb src='include/images/satcon1_home.jpg' />
-    <image zoom='include/images/satcon1_lg.jpg' thumb='include/images/satcon1_sm.jpg' />
-    <image zoom='include/images/satcon2_lg.jpg' thumb='include/images/satcon2_sm.jpg' />
-    <image zoom='include/images/satcon3_lg.jpg' thumb='include/images/satcon3_sm.jpg' />
+    <thumb src='include/images/blu-home.jpg' />
+    <image zoom='include/images/blu1-lg.jpg' thumb='include/images/blu1-sm.jpg' />
+    <image zoom='include/images/blu2-lg.jpg' thumb='include/images/blu2-sm.jpg' />
+    <image zoom='include/images/blu3-lg.jpg' thumb='include/images/blu3-sm.jpg' />
+    <image zoom='include/images/blu4-lg.jpg' thumb='include/images/blu4-sm.jpg' />
+    <image zoom='include/images/blu5-lg.jpg' thumb='include/images/blu5-sm.jpg' />
   </exhibit>
   <exhibit id='7' name='Ericsson NXTCom' navtext='Ericsson NXTCom' type='trade'>
     <desc size="" content="" />
@@ -480,12 +482,15 @@
 
   
   
-  <exhibit id='53' name='Multisorb' navtext='Multisorb ' type='trade'>
+ <exhibit id='53' name='Zippo' navtext='Zippo' type='trade'>
     <desc size="" content="" />
-    <thumb src='include/images/mult.jpg' />
-    <image zoom='include/images/mult1.jpg' thumb='include/images/mult1_t.jpg' />
-    <image zoom='include/images/mult2.jpg' thumb='include/images/mult2_t.jpg' />
-    <image zoom='include/images/mult3.jpg' thumb='include/images/mult3_t.jpg' />
+    <thumb src='include/images/zippo-out-home.jpg' />
+    <image zoom='include/images/zippo-out1-lg.jpg' thumb='include/images/zippo-out1-sm.jpg' />
+    <image zoom='include/images/zippo-out2-lg.jpg' thumb='include/images/zippo-out2-sm.jpg' />
+    <image zoom='include/images/zippo-out3-lg.jpg' thumb='include/images/zippo-out3-sm.jpg' />
+    <image zoom='include/images/zippo-out4-lg.jpg' thumb='include/images/zippo-out4-sm.jpg' />
+    <image zoom='include/images/zippo-out5-lg.jpg' thumb='include/images/zippo-out5-sm.jpg' />
+    <image zoom='include/images/zippo-out6-lg.jpg' thumb='include/images/zippo-out6-sm.jpg' />
   </exhibit>
  
   <exhibit id='64' name='Frank Showcase System' navtext='' type='frank'>
