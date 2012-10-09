@@ -1,0 +1,662 @@
+<?xml version="1.0"?>
+<portfolio>
+  <exhibit id='1' name='Durham Museum' navtext='Durham Museum' type='museum'>
+    <desc size="" content="" />
+    <thumb src='include/images/durham1_home.jpg' />
+    <image zoom='include/images/durham1_lg.jpg' thumb='include/images/durham1_sm.jpg' />
+    <image zoom='include/images/durham2_lg.jpg' thumb='include/images/durham2_sm.jpg' />
+    <image zoom='include/images/durham3_lg.jpg' thumb='include/images/durham3_sm.jpg' />
+    <image zoom='include/images/durham4_lg.jpg' thumb='include/images/durham4_sm.jpg' />
+    <image zoom='include/images/durham5_lg.jpg' thumb='include/images/durham5_sm.jpg' />
+    <image zoom='include/images/durham6_lg.jpg' thumb='include/images/durham6_sm.jpg' />
+    <image zoom='include/images/durham7_lg.jpg' thumb='include/images/durham7_sm.jpg' />
+    <image zoom='include/images/durham9_lg.jpg' thumb='include/images/durham9_sm.jpg' />
+  </exhibit>
+  <exhibit id='3' name='Bethel Woods' navtext='Bethel Woods' type='museum'>
+    <desc size="" content="" />
+    <thumb src='include/images/bethel_home.jpg' />
+    <image zoom='include/images/bethel1_lg.jpg' thumb='include/images/bethel1_sm.jpg' />
+    <image zoom='include/images/bethel2_lg.jpg' thumb='include/images/bethel2_sm.jpg' />
+    <image zoom='include/images/bethel3_lg.jpg' thumb='include/images/bethel3_sm.jpg' />
+  </exhibit>
+   <exhibit id='16' name='Sports Museum of America' navtext='Sports Museum of America' type='museum'>
+    <desc size="" content="" />
+    <thumb src='include/images/sma1_home.jpg' />
+    <image zoom='include/images/sma1_lg.jpg' thumb='include/images/sma1_sm.jpg' />
+    <image zoom='include/images/sma2_lg.jpg' thumb='include/images/sma2_sm.jpg' />
+    <image zoom='include/images/sma3_lg.jpg' thumb='include/images/sma3_sm.jpg' />
+    <image zoom='include/images/sma4-lg.jpg' thumb='include/images/sma4-sm.jpg' />
+    <image zoom='include/images/sma5-lg.jpg' thumb='include/images/sma5-sm.jpg' />
+    <image zoom='include/images/sma6-lg.jpg' thumb='include/images/sma6-sm.jpg' />
+    <image zoom='include/images/sma7-lg.jpg' thumb='include/images/sma7-sm.jpg' />
+    <image zoom='include/images/sma8-lg.jpg' thumb='include/images/sma8-sm.jpg' />
+    <image zoom='include/images/sma9-lg.jpg' thumb='include/images/sma9-sm.jpg' />
+  </exhibit>
+    <exhibit id='32' name='Baseball Hall of Fame' navtext='Baseball Hall of Fame' type='museum'>
+    <desc size="" content="" />
+    <thumb src='include/images/baseball3_home.jpg' />
+    <image zoom='include/images/baseball1_lg.jpg' thumb='include/images/baseball1_sm.jpg' />
+    <image zoom='include/images/baseball2_lg.jpg' thumb='include/images/baseball2_sm.jpg' />
+    <image zoom='include/images/baseball3_lg.jpg' thumb='include/images/baseball3_sm.jpg' />
+    <image zoom='include/images/baseball4_lg.jpg' thumb='include/images/baseball4_sm.jpg' />
+    <image zoom='include/images/baseball10-lg.jpg' thumb='include/images/baseball10-sm.jpg' />
+    <image zoom='include/images/baseball11-lg.jpg' thumb='include/images/baseball11-sm.jpg' />
+    <image zoom='include/images/baseball12-lg.jpg' thumb='include/images/baseball12-sm.jpg' />
+    <image zoom='include/images/baseball13-lg.jpg' thumb='include/images/baseball13-sm.jpg' />
+    <image zoom='include/images/baseball14-lg.jpg' thumb='include/images/baseball14-sm.jpg' />
+  </exhibit>
+  
+   <exhibit id='54' name='NPS Blue Ridge Parkway' navtext='NPS Blue Ridge Pkwy' type='visitor'>
+    <desc size="" content="" />
+    <thumb src='include/images/blue.jpg' />
+    <image zoom='include/images/blue2.jpg' thumb='include/images/blue2_t.jpg' />
+    <image zoom='include/images/blue1.jpg' thumb='include/images/blue1_t.jpg' />
+    <image zoom='include/images/blue3.jpg' thumb='include/images/blue3_t.jpg' />
+    <image zoom='include/images/blue4.jpg' thumb='include/images/blue4_t.jpg' />
+    <image zoom='include/images/blue5.jpg' thumb='include/images/blue5_t.jpg' />
+    <image zoom='include/images/blue6.jpg' thumb='include/images/blue6_t.jpg' />
+    <image zoom='include/images/blue7.jpg' thumb='include/images/blue7_t.jpg' />
+    <image zoom='include/images/blue8.jpg' thumb='include/images/blue8_t.jpg' />
+    <image zoom='include/images/blue9.jpg' thumb='include/images/blue9_t.jpg' />
+    <image zoom='include/images/blue10.jpg' thumb='include/images/blue10_t.jpg' />
+  </exhibit>
+  <exhibit id='55' name='Smithsonian - Our Lives' navtext='Smithsonian - Our Lives' type='museum'>
+    <desc size="" content="" />
+    <thumb src='include/images/lives.jpg' />
+    <image zoom='include/images/lives1.jpg' thumb='include/images/lives1_t.jpg' />
+    <image zoom='include/images/lives2.jpg' thumb='include/images/lives2_t.jpg' />
+    <image zoom='include/images/lives3.jpg' thumb='include/images/lives3_t.jpg' />
+    <image zoom='include/images/lives4.jpg' thumb='include/images/lives4_t.jpg' />
+    <image zoom='include/images/lives5.jpg' thumb='include/images/lives5_t.jpg' />
+    <image zoom='include/images/lives6.jpg' thumb='include/images/lives6_t.jpg' />
+    <image zoom='include/images/lives7.jpg' thumb='include/images/lives7_t.jpg' />
+    <image zoom='include/images/lives8.jpg' thumb='include/images/lives8_t.jpg' />
+  </exhibit>
+  <exhibit id='56' name='Smithsonian - Forces of Change' navtext='Smithsonian - Forces' type='museum'>
+    <desc size="" content="" />
+    <thumb src='' />
+    <image zoom='include/images/force1.jpg' thumb='include/images/force1_t.jpg' />
+    <image zoom='include/images/force2.jpg' thumb='include/images/force2_t.jpg' />
+    <image zoom='include/images/force3.jpg' thumb='include/images/force3_t.jpg' />
+    <image zoom='include/images/force4.jpg' thumb='include/images/force4_t.jpg' />
+    <image zoom='include/images/force5.jpg' thumb='include/images/force5_t.jpg' />
+  </exhibit>
+  <exhibit id='57' name='AMNH - Hall of Ocean Life' navtext='AMNH' type='museum'>
+    <desc size="" content="" />
+    <thumb src='include/images/ocean.jpg' />
+    <image zoom='include/images/ocean1.jpg' thumb='include/images/ocean1_t.jpg' />
+    <image zoom='include/images/ocean2.jpg' thumb='include/images/ocean2_t.jpg' />
+    <image zoom='include/images/ocean3.jpg' thumb='include/images/ocean3_t.jpg' />
+    <image zoom='include/images/ocean4.jpg' thumb='include/images/ocean4_t.jpg' />
+    <image zoom='include/images/ocean5.jpg' thumb='include/images/ocean5_t.jpg' />
+    <image zoom='include/images/ocean6.jpg' thumb='include/images/ocean6_t.jpg' />
+    <image zoom='include/images/ocean7.jpg' thumb='include/images/ocean7_t.jpg' />
+  </exhibit>
+  
+  <exhibit id='62' name='JFK Presidential Library' navtext='JFK Presidential Library' type='museum'>
+    <desc size="" content="" />
+    <thumb src='include/images/jfk.jpg' />
+    <image zoom='include/images/jfk1.jpg' thumb='include/images/jfk1_t.jpg' />
+    <image zoom='include/images/jfk2.jpg' thumb='include/images/jfk2_t.jpg' />
+    <image zoom='include/images/jfk3.jpg' thumb='include/images/jfk3_t.jpg' />
+    <image zoom='include/images/jfk4.jpg' thumb='include/images/jfk4_t.jpg' />
+    <image zoom='include/images/jfk5.jpg' thumb='include/images/jfk5_t.jpg' />
+    <image zoom='include/images/jfk6.jpg' thumb='include/images/jfk6_t.jpg' />
+  </exhibit>
+  <exhibit id='63' name='Union Pacific Railroad Museum' navtext='Union Pacific Railroad Museum' type='museum'>
+    <desc size="" content="" />
+    <thumb src='include/images/up.jpg' />
+    <image zoom='include/images/up1.jpg' thumb='include/images/up1_t.jpg' />
+    <image zoom='include/images/up2.jpg' thumb='include/images/up2_t.jpg' />
+    <image zoom='include/images/up3.jpg' thumb='include/images/up3_t.jpg' />
+    <image zoom='include/images/up4.jpg' thumb='include/images/up4_t.jpg' />
+    <image zoom='include/images/up5.jpg' thumb='include/images/up5_t.jpg' />
+    <image zoom='include/images/up6.jpg' thumb='include/images/up6_t.jpg' />
+    <image zoom='include/images/up7.jpg' thumb='include/images/up7_t.jpg' />
+    <image zoom='include/images/up8.jpg' thumb='include/images/up8_t.jpg' />
+    <image zoom='include/images/up9.jpg' thumb='include/images/up9_t.jpg' />
+    <image zoom='include/images/up10.jpg' thumb='include/images/up10_t.jpg' />
+  </exhibit>
+  <exhibit id='58' name='NYSM - World Trade Center' navtext='World Trade Ctr' type='museum'>
+    <desc size="" content="" />
+    <thumb src='include/images/wtc.jpg' />
+    <image zoom='include/images/wtc1.jpg' thumb='include/images/wtc1_t.jpg' />
+    <image zoom='include/images/wtc2.jpg' thumb='include/images/wtc2_t.jpg' />
+    <image zoom='include/images/wtc3.jpg' thumb='include/images/wtc3_t.jpg' />
+    <image zoom='include/images/wtc4.jpg' thumb='include/images/wtc4_t.jpg' />
+    <image zoom='include/images/wtc5.jpg' thumb='include/images/wtc5_t.jpg' />
+    <image zoom='include/images/wtc6.jpg' thumb='include/images/wtc6_t.jpg' />
+    <image zoom='include/images/wtc7.jpg' thumb='include/images/wtc7_t.jpg' />
+    <image zoom='include/images/wtc8.jpg' thumb='include/images/wtc8_t.jpg' />
+    <image zoom='include/images/wtc9.jpg' thumb='include/images/wtc9_t.jpg' />
+  </exhibit>
+  <exhibit id='59' name='NYSM - Open Spaces' navtext= 'Open Spaces' type='museum'>
+    <desc size="" content="" />
+    <thumb src='' />
+    <image zoom='include/images/open1.jpg' thumb='include/images/open1_t.jpg' />
+    <image zoom='include/images/open2.jpg' thumb='include/images/open2_t.jpg' />
+    <image zoom='include/images/open3.jpg' thumb='include/images/open3_t.jpg' />
+  </exhibit>
+  <exhibit id='60' name='NYSM - Archeology' navtext='Archeology' type='museum'>
+    <desc size="" content="" />
+    <thumb src='' />
+    <image zoom='include/images/arch1.jpg' thumb='include/images/arch1_t.jpg' />
+    <image zoom='include/images/arch2.jpg' thumb='include/images/arch2_t.jpg' />
+    <image zoom='include/images/arch3.jpg' thumb='include/images/arch3_t.jpg' />
+    <image zoom='include/images/arch4.jpg' thumb='include/images/arch4_t.jpg' />
+    <image zoom='include/images/arch5.jpg' thumb='include/images/arch5_t.jpg' />
+    <image zoom='include/images/arch6.jpg' thumb='include/images/arch6_t.jpg' />
+  </exhibit>
+  <exhibit id='61' name='NYSM - Windows on NY' navtext='Windows on NY' type='museum'>
+    <desc size="" content="" />
+    <thumb src='include/images/window.jpg' />
+    <image zoom='include/images/window1.jpg' thumb='include/images/window1_t.jpg' />
+    <image zoom='include/images/window2.jpg' thumb='include/images/window2_t.jpg' />
+    <image zoom='include/images/window3.jpg' thumb='include/images/window3_t.jpg' />
+    <image zoom='include/images/window4.jpg' thumb='include/images/window4_t.jpg' />
+    <image zoom='include/images/window5.jpg' thumb='include/images/window5_t.jpg' />
+  </exhibit>
+
+  <exhibit id='5' name='Cliffstar' navtext='Cliffstar' type='trade'>
+    <desc size="" content="" />
+    <thumb src='include/images/cliffstar1_home.jpg' />
+    <image zoom='include/images/cliffstar1_lg.jpg' thumb='include/images/cliffstar1_sm.jpg' />
+    <image zoom='include/images/cliffstar2_lg.jpg' thumb='include/images/cliffstar2_sm.jpg' />
+  </exhibit>
+  <exhibit id='6' name='Satcon' navtext='Satcon' type='trade'>
+    <desc size="" content="" />
+    <thumb src='include/images/satcon1_home.jpg' />
+    <image zoom='include/images/satcon1_lg.jpg' thumb='include/images/satcon1_sm.jpg' />
+    <image zoom='include/images/satcon2_lg.jpg' thumb='include/images/satcon2_sm.jpg' />
+    <image zoom='include/images/satcon3_lg.jpg' thumb='include/images/satcon3_sm.jpg' />
+  </exhibit>
+  <exhibit id='7' name='Ericsson NXTCom' navtext='Ericsson NXTCom' type='trade'>
+    <desc size="" content="" />
+    <thumb src='include/images/ericssonNXTCom2_home.jpg' />
+    <image zoom='include/images/ericssonNXTCom1_lg.jpg' thumb='include/images/ericssonNXTCom1_sm.jpg' />
+    <image zoom='include/images/ericssonNXTCom2_lg.jpg' thumb='include/images/ericssonNXTCom2_sm.jpg' />
+    <image zoom='include/images/ericssonNXTCom3_lg.jpg' thumb='include/images/ericssonNXTCom3_sm.jpg' />
+  </exhibit>
+  
+  <exhibit id='9' name='ITT' navtext='ITT' type='trade'>
+    <desc size="" content="" />
+    <thumb src='include/images/ITT_home.jpg' />
+    <image zoom='include/images/ITT_lg.jpg' thumb='include/images/ITT_sm.jpg' />
+  </exhibit>
+  <exhibit id='10' name='Koike Aronson' navtext='Koike Aronson' type='trade'>
+    <desc size="" content="" />
+    <thumb src='include/images/koikeAronson_home.jpg' />
+    <image zoom='include/images/koikeAronson_lg.jpg' thumb='include/images/koikeAronson_sm.jpg' />
+  </exhibit>
+  <exhibit id='11' name='Manfred Frank' navtext='Manfred Frank' type=''>
+    <desc size="" content="" />
+    <thumb src='include/images/manfordFrank1_home.jpg' />
+    <image zoom='include/images/manfordFrank1_lg.jpg' thumb='include/images/manfordFrank1_sm.jpg' />
+    <image zoom='include/images/manfordFrank2_lg.jpg' thumb='include/images/manfordFrank2_sm.jpg' />
+  </exhibit>
+  <exhibit id='12' name='New Era Cap' navtext='New Era Cap' type='trade'>
+    <desc size="" content="" />
+    <thumb src='include/images/newera2_home.jpg' />
+    <image zoom='include/images/newera1_lg.jpg' thumb='include/images/newera1_sm.jpg' />
+    <image zoom='include/images/newera2_lg.jpg' thumb='include/images/newera2_sm.jpg' />
+    <image zoom='include/images/newera3_lg.jpg' thumb='include/images/newera3_sm.jpg' />
+  </exhibit>
+  <exhibit id='13' name='Oerlikon' navtext='Oerlikon' type='trade'>
+    <desc size="" content="" />
+    <thumb src='include/images/oerlikon1_home.jpg' />
+    <image zoom='include/images/oerlikon1_lg.jpg' thumb='include/images/oerlikon1_sm.jpg' />
+    <image zoom='include/images/oerlikon2_lg.jpg' thumb='include/images/oerlikon2_sm.jpg' />
+  </exhibit>
+  <exhibit id='14' name='PCB' navtext='PCB' type='trade'>
+    <desc size="" content="" />
+    <thumb src='include/images/pcb_home.jpg' />
+    <image zoom='include/images/pcb1_lg.jpg' thumb='include/images/pcb1_sm.jpg' />
+    <image zoom='include/images/pcb2_lg.jpg' thumb='include/images/pcb2_sm.jpg' />
+  </exhibit>
+  <exhibit id='15' name='Sony Ericsson' navtext='Sony Ericsson' type='trade'>
+    <desc size="" content="" />
+    <thumb src='include/images/se3_home.jpg' />
+    <image zoom='include/images/se1_lg.jpg' thumb='include/images/se1_sm.jpg' />
+    <image zoom='include/images/se2_lg.jpg' thumb='include/images/se2_sm.jpg' />
+    <image zoom='include/images/se3_lg.jpg' thumb='include/images/se3_sm.jpg' />
+  </exhibit>
+ 
+  <exhibit id='17' name='St. Johns' navtext='St. Johns' type='visitor'>
+    <desc size="" content="" />
+    <thumb src='include/images/stJohns1_home.jpg' />
+    <image zoom='include/images/stJohns1_lg.jpg' thumb='include/images/stJohns1_sm.jpg' />
+    <image zoom='include/images/st2-lg.jpg' thumb='include/images/st2-sm.jpg' />
+    <image zoom='include/images/st3-lg.jpg' thumb='include/images/st3-sm.jpg' />
+    <image zoom='include/images/st4-lg.jpg' thumb='include/images/st4-sm.jpg' />
+  </exhibit>
+  <exhibit id='18' name='Abex 100' navtext='Abex 100' type='portable'>
+    <desc size="" content="" />
+    <thumb src='include/images/abex100_sm.jpg' />
+    <image zoom='include/images/abex100_lg.jpg' />
+  </exhibit>
+  <exhibit id='19' name='Abex 350' navtext='Abex 350' type='portable'>
+    <desc size="" content="" />
+    <thumb src='include/images/abex350_sm.jpg' />
+    <image zoom='include/images/abex350_lg.jpg' />
+  </exhibit>
+  <exhibit id='20' name='Grafik' navtext='Grafik' type='portable'>
+    <desc size="" content="" />
+    <thumb src='include/images/grafik_sm.jpg' />
+    <image zoom='include/images/grafik_lg.jpg' />
+  </exhibit>
+  <exhibit id='21' name='HRV - 54101' navtext='HRV-54101' type='portable'>
+    <desc size="" content="" />
+    <thumb src='include/images/Horton_52079R2_sm.jpg' />
+    <image zoom='include/images/HRV_54101.jpg' />
+  </exhibit>
+  <exhibit id='22' name='Horton - 52079R2' navtext='Horton-52079R2' type='portable'>
+    <desc size="" content="" />
+    <thumb src='include/images/Horton_52079R2_sm.jpg' />
+    <image zoom='include/images/Horton_52079R2.jpg' />
+  </exhibit>
+  <exhibit id='23' name='Tek' navtext='Tek' type='portable'>
+    <desc size="" content="" />
+    <thumb src='include/images/tek_sm.jpg' />
+    <image zoom='include/images/tek_lg.jpg' thumb='' />
+  </exhibit>
+  <exhibit id='24' name='Jamaica Bay' navtext='Jamaica Bay' type='visitor'>
+    <desc size="" content="" />
+    <thumb src='include/images/jb_home.jpg' />
+    <image zoom='include/images/jb1_lg.jpg' thumb='include/images/jb1_sm.jpg' />
+    <image zoom='include/images/jb2_lg.jpg' thumb='include/images/jb2_sm.jpg' />
+    <image zoom='include/images/jb3_lg.jpg' thumb='include/images/jb3_sm.jpg' />
+    <image zoom='include/images/jb4_lg.jpg' thumb='include/images/jb4_sm.jpg' />
+    <image zoom='include/images/jb5_lg.jpg' thumb='include/images/jb5_sm.jpg' />
+    <image zoom='include/images/jb6_lg.jpg' thumb='include/images/jb6_sm.jpg' />
+    <image zoom='include/images/jb7_lg.jpg' thumb='include/images/jb7_sm.jpg' />
+  </exhibit>
+  <exhibit id='27' name='Rosa Parks' navtext='Rosa Parks' type='visitor'>
+    <desc size="" content="" />
+    <thumb src='include/images/rosaParks2_home.jpg' />
+    <image zoom='include/images/rosaParks1_lg.jpg' thumb='include/images/rosaParks1_sm.jpg' />
+    <image zoom='include/images/rosaParks2_lg.jpg' thumb='include/images/rosaParks2_sm.jpg' />
+    <image zoom='include/images/rosaParks3_lg.jpg' thumb='include/images/rosaParks3_sm.jpg' />
+    <image zoom='include/images/rosaParks4_lg.jpg' thumb='include/images/rosaParks4_sm.jpg' />
+    <image zoom='include/images/rosaParks5_lg.jpg' thumb='include/images/rosaParks5_sm.jpg' />
+  </exhibit>
+  <exhibit id='30' name='Old Fort Niagara' navtext='Old Fort Niagara' type='visitor'>
+    <desc size="" content="" />
+    <thumb src='include/images/niagara2_home.jpg' />
+    <image zoom='include/images/niagara2_lg.jpg' thumb='include/images/niagara2_sm.jpg' />
+    <image zoom='include/images/niagara1_lg.jpg' thumb='include/images/niagara1_sm.jpg' />
+    <image zoom='include/images/niagara3_lg.jpg' thumb='include/images/niagara3_sm.jpg' />
+    <image zoom='include/images/niagara4_lg.jpg' thumb='include/images/niagara4_sm.jpg' />
+  </exhibit>
+  <exhibit id='31' name='Kilauea' navtext='Kilauea' type='visitor'>
+    <desc size="" content="" />
+    <thumb src='include/images/kilauea3_home.jpg' />
+    <image zoom='include/images/kilauea2_lg.jpg' thumb='include/images/kilauea2_sm.jpg' />
+    <image zoom='include/images/kilauea1_lg.jpg' thumb='include/images/kilauea1_sm.jpg' />
+    <image zoom='include/images/kilauea3_lg.jpg' thumb='include/images/kilauea3_sm.jpg' />
+    <image zoom='include/images/kilauea4_lg.jpg' thumb='include/images/kilauea4_sm.jpg' />
+  </exhibit>
+
+  <exhibit id='34' name=' Visitor Center' navtext='Capitol' type='visitor'>
+    <desc size="" content="" />
+    <thumb src='include/images/AOC_home.jpg' />
+    <image zoom='include/images/AOC_lg.jpg' thumb='include/images/AOC_sm.jpg' />
+    <image zoom='include/images/aoc2_lg.jpg' thumb='include/images/aoc2_sm.jpg' />
+    <image zoom='include/images/aoc3_lg.jpg' thumb='include/images/aoc3_sm.jpg' />
+    <image zoom='include/images/aoc4_lg.jpg' thumb='include/images/aoc4_sm.jpg' />
+    <image zoom='include/images/aoc5_lg.jpg' thumb='include/images/aoc5_sm.jpg' />
+  </exhibit>
+  <exhibit id='35' name='Buffalo Botanical Gardens' navtext='Buffalo Botanical Gardens' type='visitor'>
+    <desc size="" content="" />
+    <thumb src='include/images/botanicalGardens2_home.jpg' />
+    <image zoom='include/images/botanicalGardens1_lg.jpg' thumb='include/images/botanicalGardens1_sm.jpg' />
+    <image zoom='include/images/botanicalGardens2_lg.jpg' thumb='include/images/botanicalGardens2_sm.jpg' />
+    <image zoom='include/images/botanicalGardens3_lg.jpg' thumb='include/images/botanicalGardens3_sm.jpg' />
+    <image zoom='include/images/botanicalGardens4_lg.jpg' thumb='include/images/botanicalGardens4_sm.jpg' />
+    <image zoom='include/images/BotGarden5_lg.jpg' thumb='include/images/BotGarden5_sm.jpg' />
+    <image zoom='include/images/Botgarden6_lg.jpg' thumb='include/images/BotGarden6_sm.jpg' />
+  </exhibit>
+  <exhibit id='36' name='Natchez Trace' navtext='Natchez Trace' type='visitor'>
+    <desc size="" content="" />
+    <thumb src='include/images/natchez2_home.jpg' />
+    <image zoom='include/images/natchez1_lg.jpg' thumb='include/images/natchez1_sm.jpg' />
+    <image zoom='include/images/natchez2_lg.jpg' thumb='include/images/natchez2_sm.jpg' />
+    <image zoom='include/images/natchez3_lg.jpg' thumb='include/images/natchez3_sm.jpg' />
+    <image zoom='include/images/natchez4_lg.jpg' thumb='include/images/natchez4_sm.jpg' />
+    <image zoom='include/images/natchez5_lg.jpg' thumb='include/images/natchez5_sm.jpg' />
+    <image zoom='include/images/natchez6_lg.jpg' thumb='include/images/natchez6_sm.jpg' />
+    <image zoom='include/images/natchez7_lg.jpg' thumb='include/images/natchez7_sm.jpg' />
+  </exhibit>
+  <exhibit id='37' name='Nash House' navtext='Nash House' type='visitor'>
+    <desc size="" content="" />
+    <thumb src='include/images/nash1_home.jpg' />
+    <image zoom='include/images/nash3_lg.jpg' thumb='include/images/nash3_sm.jpg' />
+    <image zoom='include/images/nash1_lg.jpg' thumb='include/images/nash1_sm.jpg' />
+    <image zoom='include/images/nash2_lg.jpg' thumb='include/images/nash2_sm.jpg' />
+    
+  </exhibit>
+  <exhibit id='38' name='Wild Center' navtext='Wild Center' type='visitor'>
+    <desc size="" content="" />
+    <thumb src='include/images/wild2_home.jpg' />
+    <image zoom='include/images/wild2_lg.jpg' thumb='include/images/wild2_sm.jpg' />
+    <image zoom='include/images/wild1_lg.jpg' thumb='include/images/wild1_sm.jpg' />
+    <image zoom='include/images/wild3_lg.jpg' thumb='include/images/wild3_sm.jpg' />
+    <image zoom='include/images/wild4_lg.jpg' thumb='include/images/wild4_sm.jpg' />
+  </exhibit>
+  <exhibit id='39' name='Niagara Gorge Discovery Center' navtext='Niagara Gorge' type='visitor'>
+    <desc size="" content="" />
+    <thumb src='include/images/ngdc3_home.jpg' />
+    <image zoom='include/images/ngdc1_lg.jpg' thumb='include/images/ngdc1_sm.jpg' />
+    <image zoom='include/images/ngdc2_lg.jpg' thumb='include/images/ngdc2_sm.jpg' />
+    <image zoom='include/images/ngdc3_lg.jpg' thumb='include/images/ngdc3_sm.jpg' />
+    <image zoom='include/images/ngdc4_lg.jpg' thumb='include/images/ngdc4_sm.jpg' />
+  </exhibit>
+  <exhibit id='40' name='Written in Bone' navtext='Written in Bone' type='museum'>
+    <desc size="" content="" />
+    <thumb src='include/images/bones1_home.jpg' />
+    <image zoom='include/images/bones1_lg.jpg' thumb='include/images/bones1_sm.jpg' />
+    <image zoom='include/images/bones2_lg.jpg' thumb='include/images/bones2_sm.jpg' />
+    <image zoom='include/images/bones3_lg.jpg' thumb='include/images/bones3_sm.jpg' />
+    <image zoom='include/images/bones4_lg.jpg' thumb='include/images/bones4_sm.jpg' />
+    <image zoom='include/images/bones5_lg.jpg' thumb='include/images/bones5_sm.jpg' />
+  </exhibit>
+  
+  <!-- ZOOS ARE HERE -->
+  
+ 
+  <exhibit id='26' name='Smithsonian - Asia Trail' navtext='Smithsonian - Asia Trail' type='zoo'>
+    <desc size="" content="" />
+    <thumb src='include/images/asiaTrial2_home.jpg' />
+    <image zoom='include/images/asiaTrial1_lg.jpg' thumb='include/images/asiaTrial1_sm.jpg' />
+    <image zoom='include/images/asiaTrial2_lg.jpg' thumb='include/images/asiaTrial2_sm.jpg' />
+    <image zoom='include/images/asiaTrial3_lg.jpg' thumb='include/images/asiaTrial3_sm.jpg' />
+    <image zoom='include/images/asiaTrial4_lg.jpg' thumb='include/images/asiaTrial4_sm.jpg' />
+  </exhibit>
+  <exhibit id='49' name='Smithsonian - Grasslands' navtext='Smithsonian - Grasslands ' type='zoo'>
+    <desc size="" content="" />
+    <thumb src='include/images/grass.jpg' />
+    <image zoom='include/images/grass1.jpg' thumb='include/images/grass1_t.jpg' />
+    <image zoom='include/images/grass2.jpg' thumb='include/images/grass2_t.jpg' />
+    <image zoom='include/images/grass3.jpg' thumb='include/images/grass3_t.jpg' />
+    <image zoom='include/images/grass4.jpg' thumb='include/images/grass4_t.jpg' />
+    <image zoom='include/images/grass5.jpg' thumb='include/images/grass5_t.jpg' />
+  </exhibit>
+  <exhibit id='48' name='Smithsonian - Farm Exhibit' navtext='Smithsonian - Farm Exhibit ' type='zoo'>
+    <desc size="" content="" />
+    <thumb src='include/images/farm.jpg' />
+    <image zoom='include/images/farm1.jpg' thumb='include/images/farm1_t.jpg' />
+    <image zoom='include/images/farm2.jpg' thumb='include/images/farm2_t.jpg' />
+    <image zoom='include/images/farm3.jpg' thumb='include/images/farm3_t.jpg' />
+    <image zoom='include/images/farm4.jpg' thumb='include/images/farm4_t.jpg' />
+    <image zoom='include/images/farm5.jpg' thumb='include/images/farm5_t.jpg' />
+    <image zoom='include/images/farm6.jpg' thumb='include/images/farm6_t.jpg' />
+    <image zoom='include/images/farm7.jpg' thumb='include/images/farm7_t.jpg' />
+  </exhibit>
+  <exhibit id='43' name='Staten Island Zoo - Reptile House' navtext='Staten Island Zoo ' type='zoo'>
+    <desc size="" content="" />
+    <thumb src='include/images/staten.jpg' />
+    <image zoom='include/images/staten3.jpg' thumb='include/images/staten3_t.jpg' />
+    <image zoom='include/images/staten1.jpg' thumb='include/images/staten1_t.jpg' />
+    <image zoom='include/images/staten2.jpg' thumb='include/images/staten2_t.jpg' />
+    <image zoom='include/images/staten4.jpg' thumb='include/images/staten4_t.jpg' />
+    <image zoom='include/images/staten5.jpg' thumb='include/images/staten5_t.jpg' />
+  </exhibit>
+  <exhibit id='44' name='Central Park Zoo - Snow Leopard' navtext='Central Park Zoo ' type='zoo'>
+    <desc size="" content="" />
+    <thumb src='include/images/central.jpg' />
+    <image zoom='include/images/central2.jpg' thumb='include/images/central2_t.jpg' />
+    <image zoom='include/images/central1.jpg' thumb='include/images/central1_t.jpg' />
+    <image zoom='include/images/central3.jpg' thumb='include/images/central3_t.jpg' />
+    <image zoom='include/images/central4.jpg' thumb='include/images/central4_t.jpg' />
+    <image zoom='include/images/central5.jpg' thumb='include/images/central5_t.jpg' />
+    <image zoom='include/images/central6.jpg' thumb='include/images/central6_t.jpg' />
+    <image zoom='include/images/central7.jpg' thumb='include/images/central7_t.jpg' />
+    <image zoom='include/images/central8.jpg' thumb='include/images/central8_t.jpg' />
+    <image zoom='include/images/central9.jpg' thumb='include/images/central9_t.jpg' />
+  </exhibit>
+  <exhibit id='75' name='Louisville Zoo - Gorilla Forest' navtext='Louisville Zoo' type='zoo'>
+    <desc size="" content="" />
+    <thumb src='include/images/louis.jpg' />
+    <image zoom='include/images/louis1.jpg' thumb='include/images/louis1_t.jpg' />
+    <image zoom='include/images/louis2.jpg' thumb='include/images/louis2_t.jpg' />
+    <image zoom='include/images/louis3.jpg' thumb='include/images/louis3_t.jpg' />
+    <image zoom='include/images/louis4.jpg' thumb='include/images/louis4_t.jpg' />
+    <image zoom='include/images/louis5.jpg' thumb='include/images/louis5_t.jpg' />
+    <image zoom='include/images/louis6.jpg' thumb='include/images/louis6_t.jpg' />
+    <image zoom='include/images/louis7.jpg' thumb='include/images/louis7_t.jpg' />
+    <image zoom='include/images/louis8.jpg' thumb='include/images/louis8_t.jpg' />
+  </exhibit>
+    <exhibit id='51' name='Riverbanks - Birdhouse' navtext='Riverbanks - Birdhouse ' type='zoo'>
+    <desc size="" content="" />
+    <thumb src='include/images/bird.jpg' />
+    <image zoom='include/images/bird2.jpg' thumb='include/images/bird2_t.jpg' />
+    <image zoom='include/images/bird1.jpg' thumb='include/images/bird1_t.jpg' />
+    <image zoom='include/images/bird3.jpg' thumb='include/images/bird3_t.jpg' />
+    <image zoom='include/images/bird4.jpg' thumb='include/images/bird4_t.jpg' />
+  </exhibit>
+  <exhibit id='45' name='LA Zoo - Chimpanzees of the Mahale' navtext='LA Zoo - Chimpanzees ' type='zoo'>
+    <desc size="" content="" />
+    <thumb src='include/images/laZoo.jpg' />
+    <image zoom='include/images/laZoo1.jpg' thumb='include/images/laZoo1_t.jpg' />
+    <image zoom='include/images/laZoo2.jpg' thumb='include/images/laZoo2_t.jpg' />
+    <image zoom='include/images/laZoo3.jpg' thumb='include/images/laZoo3_t.jpg' />
+    <image zoom='include/images/laZoo4.jpg' thumb='include/images/laZoo4_t.jpg' />
+  </exhibit>
+  <exhibit id='46' name='LA Zoo - Red Ape Rainforest' navtext='LA Zoo - Red Ape ' type='zoo'>
+    <desc size="" content="" />
+    <thumb src='' />
+    <image zoom='include/images/redApe1.jpg' thumb='include/images/redApe1_t.jpg' />
+    <image zoom='include/images/redApe2.jpg' thumb='include/images/redApe2_t.jpg' />
+    <image zoom='include/images/redApe3.jpg' thumb='include/images/redApe3_t.jpg' />
+    <image zoom='include/images/redApe4.jpg' thumb='include/images/redApe4_t.jpg' />
+    <image zoom='include/images/redApe5.jpg' thumb='include/images/redApe5_t.jpg' />
+  </exhibit>
+  <exhibit id='47' name='Philadelphia Zoo - Primate Reserve' navtext='Philadelphia Zoo - Primate Reserve ' type='zoo'>
+    <desc size="" content="" />
+    <thumb src='include/images/phil.jpg' />
+    <image zoom='include/images/phil4.jpg' thumb='include/images/phil4_t.jpg' />
+    <image zoom='include/images/phil2.jpg' thumb='include/images/phil2_t.jpg' />
+    <image zoom='include/images/phil3.jpg' thumb='include/images/phil3_t.jpg' />
+    <image zoom='include/images/phil1.jpg' thumb='include/images/phil1_t.jpg' />
+    
+  </exhibit>
+   <exhibit id='25' name='Buffalo Zoo - Rainforest Falls' navtext='Buffalo Zoo - Rain Forest Falls' type='zoo'>
+    <desc size="" content="" />
+    <thumb src='include/images/buffZoo2_home.jpg' />
+    <image zoom='include/images/buffZoo1_lg.jpg' thumb='include/images/buffZoo1_sm.jpg' />
+    <image zoom='include/images/buffZoo2_lg.jpg' thumb='include/images/buffZoo2_sm.jpg' />
+    <image zoom='include/images/buffZoo3_lg.jpg' thumb='include/images/buffZoo3_sm.jpg' />
+    <image zoom='include/images/buffZoo4_lg.jpg' thumb='include/images/buffZoo4_sm.jpg' />
+    <image zoom='include/images/buffZoo5_lg.jpg' thumb='include/images/buffZoo5_sm.jpg' />
+    <image zoom='include/images/buffZoo6_lg.jpg' thumb='include/images/buffZoo6_sm.jpg' />
+  </exhibit>
+  <exhibit id='41' name='Buffalo Zoo - World Wildlife Interpretive Center' navtext='Buffalo Zoo - W.W.C.' type='zoo'>
+    <desc size="" content="" />
+    <thumb src='include/images/bzooh.jpg' />
+    <image zoom='include/images/bzoo6.jpg' thumb='include/images/bzoo6_t.jpg' />
+    <image zoom='include/images/bzoo.jpg' thumb='include/images/bzoo_t.jpg' />
+    <image zoom='include/images/bzoo2.jpg' thumb='include/images/bzoo2_t.jpg' />
+    <image zoom='include/images/bzoo3.jpg' thumb='include/images/bzoo3_t.jpg' />
+    <image zoom='include/images/bzoo4.jpg' thumb='include/images/bzoo4_t.jpg' />
+    <image zoom='include/images/bzoo5.jpg' thumb='include/images/bzoo5_t.jpg' />
+    <image zoom='include/images/bzoo7.jpg' thumb='include/images/bzoo7_t.jpg' />
+  </exhibit>
+  <exhibit id='42' name='Buffalo Zoo - Lorikeet Landing' navtext='Buffalo Zoo - Lorikeet ' type='zoo'>
+    <desc size="" content="" />
+    <thumb src="" />
+    <image zoom='include/images/lorikeet2.jpg' thumb='include/images/lorikeet2_t.jpg' />
+    <image zoom='include/images/lorikeet1.jpg' thumb='include/images/lorikeet1_t.jpg' />
+    <image zoom='include/images/lorikeet3.jpg' thumb='include/images/lorikeet3_t.jpg' />
+    <image zoom='include/images/lorikeet4.jpg' thumb='include/images/lorikeet4_t.jpg' />
+    <image zoom='include/images/lorikeet5.jpg' thumb='include/images/lorikeet5_t.jpg' />
+  </exhibit>
+
+  
+  
+  <exhibit id='53' name='Multisorb' navtext='Multisorb ' type='trade'>
+    <desc size="" content="" />
+    <thumb src='include/images/mult.jpg' />
+    <image zoom='include/images/mult1.jpg' thumb='include/images/mult1_t.jpg' />
+    <image zoom='include/images/mult2.jpg' thumb='include/images/mult2_t.jpg' />
+    <image zoom='include/images/mult3.jpg' thumb='include/images/mult3_t.jpg' />
+  </exhibit>
+ 
+  <exhibit id='64' name='Frank Showcase System' navtext='' type='frank'>
+    <desc size="" content="http://www.franknorthamerica.com" />
+    <thumb src='include/images/FrankShowcase-logo.jpg' />
+    <image zoom='include/images/manfordFrank1_lg.jpg' thumb='include/images/manfordFrank1_sm.jpg' />
+    <image zoom='include/images/Frank-MZTV1-lg.jpg' thumb='include/images/Frank-MZTV1-sm.jpg' />
+    <image zoom='include/images/manfordFrank3_lg.jpg' thumb='include/images/manfordFrank3_sm.jpg' />
+    <image zoom='include/images/manfordFrank4_lg.jpg' thumb='include/images/manfordFrank4_sm.jpg' />
+    <image zoom='include/images/Frank-5-lg.jpg' thumb='include/images/Frank-5-sm.jpg' />
+    <image zoom='include/images/Frank-6-lg.jpg' thumb='include/images/Frank-6-sm.jpg' />
+    <image zoom='include/images/Frank-7-lg.jpg' thumb='include/images/Frank-7-sm.jpg' />
+    <image zoom='include/images/Frank-8-lg.jpg' thumb='include/images/Frank-8-sm.jpg' />
+    <image zoom='include/images/Frank-9-lg.jpg' thumb='include/images/Frank-9-sm.jpg' />
+    <image zoom='include/images/Frank-10-lg.jpg' thumb='include/images/Frank-10-sm.jpg' />
+  </exhibit>
+  <exhibit id='65' name='Mandela Day' navtext='Mandela Day' type='misc'>
+    <desc size="" content="" />
+    <thumb src='include/images/man.jpg' />
+    <image zoom='include/images/man1.jpg' thumb='include/images/man1_t.jpg' />
+    <image zoom='include/images/man2.jpg' thumb='include/images/man2_t.jpg' />
+    <image zoom='include/images/man3.jpg' thumb='include/images/man3_t.jpg' />
+    <image zoom='include/images/man4.jpg' thumb='include/images/man4_t.jpg' />
+    <image zoom='include/images/man5.jpg' thumb='include/images/man5_t.jpg' />
+    <image zoom='include/images/man6.jpg' thumb='include/images/man6_t.jpg' />
+  </exhibit>
+  <exhibit id='66' name='UB College of Arts and Sciences' navtext='UB College of Arts and Science' type='misc'>
+    <desc size="" content="" />
+    <thumb src='include/images/ub.jpg' />
+    <image zoom='include/images/ub1.jpg' thumb='include/images/ub1_t.jpg' />
+    <image zoom='include/images/ub2.jpg' thumb='include/images/ub2_t.jpg' />
+    <image zoom='include/images/ub3.jpg' thumb='include/images/ub3_t.jpg' />
+    <image zoom='include/images/ub4.jpg' thumb='include/images/ub4_t.jpg' />
+  </exhibit>
+  <exhibit id='67' name='James A Michener Art Museum' navtext='James A Michener Art Museum' type='misc'>
+    <desc size="" content="" />
+    <thumb src='include/images/mic.jpg' />
+    <image zoom='include/images/mic1.jpg' thumb='include/images/mic1_t.jpg' />
+    <image zoom='include/images/mic2.jpg' thumb='include/images/mic2_t.jpg' />
+    <image zoom='include/images/mic3.jpg' thumb='include/images/mic3_t.jpg' />
+    <image zoom='include/images/mic4.jpg' thumb='include/images/mic4_t.jpg' />
+    <image zoom='include/images/mic5.jpg' thumb='include/images/mic5_t.jpg' />
+  </exhibit>
+  <exhibit id='68' name='Yale University Art Gallery' navtext='Yale University Art Gallery' type='misc'>
+    <desc size="" content="" />
+    <thumb src='include/images/yale.jpg' />
+    <image zoom='include/images/yale1.jpg' thumb='include/images/yale1_t.jpg' />
+    <image zoom='include/images/yale2.jpg' thumb='include/images/yale2_t.jpg' />
+    <image zoom='include/images/yale3.jpg' thumb='include/images/yale3_t.jpg' />
+    <image zoom='include/images/yale4.jpg' thumb='include/images/yale4_t.jpg' />
+    <image zoom='include/images/yale5.jpg' thumb='include/images/yale5_t.jpg' />
+  </exhibit>
+  <exhibit id='69' name='The Museum at Bethel Woods Store' navtext='The Museum at Bethel Woods Store' type='misc'>
+    <desc size="" content="" />
+    <thumb src='include/images/beths.jpg' />
+    <image zoom='include/images/beths1.jpg' thumb='include/images/beths1_t.jpg' />
+    <image zoom='include/images/beths2.jpg' thumb='include/images/beths2_t.jpg' />
+    <image zoom='include/images/beths3.jpg' thumb='include/images/beths3_t.jpg' />
+    <image zoom='include/images/beths4.jpg' thumb='include/images/beths4_t.jpg' />
+    <image zoom='include/images/beths5.jpg' thumb='include/images/beths5_t.jpg' />
+  </exhibit>
+  <exhibit id='70' name='Darwin Martin House - Wisteria Shop' navtext='Darwin Martin House - Wisteria Shop' type='misc'>
+    <desc size="" content="" />
+    <thumb src='include/images/dar.jpg' />
+    <image zoom='include/images/dar1.jpg' thumb='include/images/dar1_t.jpg' />
+    <image zoom='include/images/dar2.jpg' thumb='include/images/dar2_t.jpg' />
+    <image zoom='include/images/dar3.jpg' thumb='include/images/dar3_t.jpg' />
+    <image zoom='include/images/dar4.jpg' thumb='include/images/dar4_t.jpg' />
+    <image zoom='include/images/dar5.jpg' thumb='include/images/dar5_t.jpg' />
+    <image zoom='include/images/dar6.jpg' thumb='include/images/dar6_t.jpg' />
+  </exhibit>
+  <exhibit id='71' name='Pan-Am' navtext='Pan-Am' type='misc'>
+    <desc size="" content="" />
+    <thumb src='include/images/pan.jpg' />
+    <image zoom='include/images/pan1.jpg' thumb='include/images/pan1_t.jpg' />
+    <image zoom='include/images/pan2.jpg' thumb='include/images/pan2_t.jpg' />
+    <image zoom='include/images/pan3.jpg' thumb='include/images/pan3_t.jpg' />
+    <image zoom='include/images/pan4.jpg' thumb='include/images/pan4_t.jpg' />
+  </exhibit>
+    <exhibit id='72' name='Ericsson' navtext='Ericsson' type='misc'>
+    <desc size="" content="" />
+    <thumb src='include/images/ericsson_tech_home.jpg' />
+    <image zoom='include/images/ericsson_tech1_lg.jpg' thumb='include/images/ericsson_tech1_sm.jpg' />
+    <image zoom='include/images/ericsson_tech2_lg.jpg' thumb='include/images/ericsson_tech2_sm.jpg' />
+    <image zoom='include/images/ericsson_tech3_lg.jpg' thumb='include/images/ericsson_tech3_sm.jpg' />
+    <image zoom='include/images/ericsson_tech4-lg.jpg' thumb='include/images/ericsson_tech4_sm.jpg' />
+  </exhibit>
+     <exhibit id='73' name='Zippo' navtext='Zippo' type='misc'>
+    <desc size="" content="" />
+    <thumb src='include/images/zippo1_home.jpg' />
+    <image zoom='include/images/zippo1_lg.jpg' thumb='include/images/zippo1_sm.jpg' />
+    <image zoom='include/images/zippo2_lg.jpg' thumb='include/images/zippo2_sm.jpg' />
+    <image zoom='include/images/zippo3_lg.jpg' thumb='include/images/zippo3_sm.jpg' />
+    <image zoom='include/images/zippo4_lg.jpg' thumb='include/images/zippo4_sm.jpg' />
+  </exhibit>
+  <exhibit id='74' name='Ericsson CTIA' navtext='Ericsson CTIA' type='trade'>
+    <desc size="" content="" />
+    <thumb src='include/images/eric-CTIA-home.jpg' />
+    <image zoom='include/images/eric1-lg.jpg' thumb='include/images/eric1-sm.jpg' />
+    <image zoom='include/images/eric2-lg.jpg' thumb='include/images/eric2-sm.jpg' />
+    <image zoom='include/images/eric3-lg.jpg' thumb='include/images/eric3-sm.jpg' />
+    <image zoom='include/images/eric4-lg.jpg' thumb='include/images/eric4-sm.jpg' />
+    <image zoom='include/images/eric5-lg.jpg' thumb='include/images/eric5-sm.jpg' />
+    <image zoom='include/images/eric6-lg.jpg' thumb='include/images/eric6-sm.jpg' />
+    <image zoom='include/images/eric7-lg.jpg' thumb='include/images/eric7-sm.jpg' />
+  </exhibit>
+     <exhibit id='52' name='Buffalo Zoo - Heritage Farm' navtext='Buffalo Zoo - Heritage Farm' type='zoo'>
+    <desc size="" content="" />
+    <thumb src='include/images/hfarm-home.jpg' />
+    <image zoom='include/images/hfarm1-lg.jpg' thumb='include/images/hfarm1-sm.jpg' />
+    <image zoom='include/images/hfarm2-lg.jpg' thumb='include/images/hfarm2-sm.jpg' />
+    <image zoom='include/images/hfarm3-lg.jpg' thumb='include/images/hfarm3-sm.jpg' />
+    <image zoom='include/images/hfarm4-lg.jpg' thumb='include/images/hfarm4-sm.jpg' />
+    <image zoom='include/images/hfarm5-lg.jpg' thumb='include/images/hfarm5-sm.jpg' />
+    <image zoom='include/images/hfarm6-lg.jpg' thumb='include/images/hfarm6-sm.jpg' />
+    <image zoom='include/images/hfarm7-lg.jpg' thumb='include/images/hfarm7-sm.jpg' />
+  </exhibit>
+    <exhibit id='76' name='Reichert' navtext='Reichert' type='trade'>
+    <desc size="" content="" />
+    <thumb src='include/images/reichert-home.jpg' />
+    <image zoom='include/images/reichert1-lg.jpg' thumb='include/images/reichert1-sm.jpg' />
+    <image zoom='include/images/reichert2-lg.jpg' thumb='include/images/reichert2-sm.jpg' />
+    <image zoom='include/images/reichert3-lg.jpg' thumb='include/images/reichert3-sm.jpg' />
+    </exhibit>
+     <exhibit id='77' name='Pivot Medical - 52147' navtext='Pivot Medical-52147' type='portable'>
+    <desc size="" content="" />
+    <thumb src='include/images/PivotMedical_52147_sm.jpg' />
+    <image zoom='include/images/PivotMedical_52147.jpg' />
+  </exhibit>
+   <exhibit id='78' name='Medshape - 55217' navtext='Medshape-55217' type='portable'>
+    <desc size="" content="" />
+    <thumb src='include/images/Medshape_55217_sm.jpg' />
+    <image zoom='include/images/Medshape_55217.jpg' />
+  </exhibit>
+    <exhibit id='79' name='Bank of America - 56330' navtext='Bank of America-56330' type='portable'>
+    <desc size="" content="" />
+    <thumb src='include/images/boa_sm.jpg' />
+    <image zoom='include/images/boa.jpg' />
+  </exhibit>
+   <exhibit id='80' name='Hex Armor - 53941' navtext='Hex Armor-53941' type='portable'>
+    <desc size="" content="" />
+    <thumb src='include/images/hex_sm.jpg' />
+    <image zoom='include/images/hex.jpg' />
+  </exhibit>
+  <exhibit id='81' name='Route Match Software - 55235' navtext='Route Match Software-55235' type='portable'>
+    <desc size="" content="" />
+    <thumb src='include/images/route_sm.jpg' />
+    <image zoom='include/images/route.jpg' />
+  </exhibit>
+    <exhibit id='82' name='Zoo Digital - 30916' navtext='Zoo Digital-30916' type='portable'>
+    <desc size="" content="" />
+    <thumb src='include/images/zooD_sm.jpg' />
+    <image zoom='include/images/zooD.jpg' />
+  </exhibit>
+  <!-- blank template for new portfolio exhibit -->
+  <!-- options for type: [museum|trade|visitor|zoo|frank|misc] -->
+  <exhibit id='' name='' navtext='' type=''>
+    <desc size="" content="" />
+    <thumb src='' />
+    <image zoom='' thumb='' />
+  </exhibit>
+</portfolio>
