@@ -120,10 +120,17 @@
 							}
 							
 							if ($type == 'frank') {
-								echo("<br /><strong>frank acrylic systems</strong><br />");
+								echo("<br /><strong>custom casework</strong><br />");
 								renderTypeLinks();
 							} else { 
-								echo("<a href='listing.php?type=frank'>frank acrylic systems</a><br />");
+								echo("<a href='listing.php?type=frank'>custom casework</a><br />");
+							}
+
+							if ($type == 'events') {
+								echo("<br /><strong>events</strong><br />");
+								renderTypeLinks();
+							} else { 
+								echo("<a href='listing.php?type=events'>events</a><br />");
 							}
 							
 							if ($type == 'misc') {

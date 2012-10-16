@@ -90,7 +90,8 @@
 								echo(($type != 'museum') ? "<a href='listing.php?type=museum'>museums</a><br />" : "<strong>museums</strong><br />");
 								echo(($type != 'visitor') ? "<a href='listing.php?type=visitor'>visitor centers</a><br />" : "<strong>visitor centers</strong><br />");
 								echo(($type != 'zoo') ? "<a href='listing.php?type=zoo'>zoos</a><br />" : "<strong>zoos</strong><br />");
-								echo(($type != 'frank') ? "<a href='listing.php?type=frank'>frank acrylic systems</a><br />" : "<strong>frank acrylic systems</strong><br />");
+								echo(($type != 'frank') ? "<a href='listing.php?type=frank'>custom casework</a><br />" : "<strong>custom casework</strong><br />");
+								echo(($type != 'events') ? "<a href='listing.php?type=events'>events</a><br/>" : "<strong>events</strong><br/>");
 								echo(($type != 'misc') ? "<a href='listing.php?type=misc'>misc</a>" : "<strong>misc</strong>");
 							}
 						?>
@@ -107,7 +108,7 @@
 
 							$linkFile = ($type == 'portable') ? "portables.php" : "portfolio.php";
 							
-							$exhibitLength = ($nodeList->length > 12) ? 12 : $nodeList->length;
+							$exhibitLength = ($nodeList->length > 13) ? 13 : $nodeList->length;
 
 							for ($k = 0; k <= ($exhibitLength -= 1); $k += 1) {
 								$node = $nodeList->item($k);
